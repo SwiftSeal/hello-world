@@ -1,0 +1,2 @@
+msg = 'gyh'
+print(msg)
